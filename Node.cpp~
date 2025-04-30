@@ -1,0 +1,9 @@
+#include "Node.cpp"
+
+Node::Node(int value) {
+
+}
+
+Node::~Node() {
+  
+}
